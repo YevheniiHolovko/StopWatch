@@ -1,0 +1,23 @@
+.appDisplay {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+}
+
+
+.display {
+  display: flex;
+  border: 1px solid rgb(1, 26, 255);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.7);
+  margin: 5px;
+  justify-content: center;
+
+}
+
+.disItems {
+  padding: 40px 70px;
+  font-size: 30px;
+}
